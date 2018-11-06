@@ -1,0 +1,11 @@
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\FIEK_ECC\bin\Debug\FIEK_ECC.dll
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\FIEK_ECC\bin\Debug\FIEK_ECC.pdb
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\FIEK_ECC\obj\Debug\FIEK_ECC.csprojAssemblyReference.cache
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\FIEK_ECC\obj\Debug\FIEK_ECC.csproj.CoreCompileInputs.cache
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\FIEK_ECC\obj\Debug\FIEK_ECC.dll
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\FIEK_ECC\obj\Debug\FIEK_ECC.pdb
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\FIEK_ECC\bin\Debug\FIEK_ECC.dll
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\FIEK_ECC\bin\Debug\FIEK_ECC.pdb
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\FIEK_ECC\obj\Debug\FIEK_ECC.csprojResolveAssemblyReference.cache
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\FIEK_ECC\obj\Debug\FIEK_ECC.dll
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\FIEK_ECC\obj\Debug\FIEK_ECC.pdb
