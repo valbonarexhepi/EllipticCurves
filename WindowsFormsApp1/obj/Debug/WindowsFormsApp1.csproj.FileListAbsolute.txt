@@ -1,0 +1,35 @@
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\WindowsFormsApp1\bin\Debug\FIEK_ECC.dll
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\WindowsFormsApp1\bin\Debug\FIEK_ECC.pdb
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\kosmos dermaku\source\repos\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\vrexhepi\Desktop\ConsoleApp2 - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\vrexhepi\Desktop\ConsoleApp2 - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\vrexhepi\Desktop\ConsoleApp2 - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\vrexhepi\Desktop\ConsoleApp2 - Copy\WindowsFormsApp1\bin\Debug\FIEK_ECC.dll
+C:\Users\vrexhepi\Desktop\ConsoleApp2 - Copy\WindowsFormsApp1\bin\Debug\FIEK_ECC.pdb
+C:\Users\vrexhepi\Desktop\ConsoleApp2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\vrexhepi\Desktop\ConsoleApp2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\vrexhepi\Desktop\ConsoleApp2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\vrexhepi\Desktop\ConsoleApp2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\vrexhepi\Desktop\ConsoleApp2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\vrexhepi\Desktop\ConsoleApp2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\WindowsFormsApp1\bin\Debug\FIEK_ECC.dll
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\WindowsFormsApp1\bin\Debug\FIEK_ECC.pdb
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\vrexhepi\Desktop\Sigurimi i informacionit\ConsoleApp2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
